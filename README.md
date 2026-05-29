@@ -102,11 +102,11 @@ log(p / 1-p) = -5.535
 
 | Box-Tidwell Test Results | VIF Scores |
 |---|---|
-| ![BoxTidwell](BoxTidwell.png) | ![VIF](VIF.png) |
+| ![BoxTidwell](Figures/BoxTidwell.png) | ![VIF](Figures/VIF.png) |
 
 | Logit Plots Linear | Logit Plot Non-Linear |
 |---|---|
-| ![]() | ![LinearCheckRenovationQuality](LinearCheckRenovationQuality.jpg) |
+| ![LinearCheckLocalAmenities](Figures/LinearCheckLocalAmenities.jpg) | ![LinearCheckRenovationQuality](Figures/LinearCheckRenovationQuality.jpg) |
 
 ---
 
@@ -122,7 +122,7 @@ Training and test accuracy are nearly identical, indicating strong generalizatio
 
 | Confusion Matrix — Training Set | Confusion Matrix — Test Set |
 |---|---|
-| ![trainconf](ConfusionMatrix_Trainset.jpg) | ![Testconf](ConfusionMatrix_Testset.jpg) |
+| ![trainconf](Figures/ConfusionMatrix_Trainset.jpg) | ![Testconf](Figures/ConfusionMatrix_Testset.jpg) |
 
 ---
 
